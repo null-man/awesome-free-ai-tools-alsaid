@@ -23,6 +23,10 @@
 - [GenParrot Hashtag Generator](https://genparrot.com/tools/ai-hashtag-generator/) â€” Balanced hashtag sets for any topic.
 - [GenParrot Wedding Hashtag Maker](https://genparrot.com/tools/wedding-hashtag-maker/) â€” Unique wedding hashtags.
 
+## Image & Design
+- [TeslaWraps](https://teslawraps.design) — Free browser Tesla wrap designer. Core editing + PNG export free, no account. Optional AI credits.
+- [PromptImage](https://promptimage.cloud) — Free AI image & video studio with a prompt library. Signup credits, no card.
+
 ## AI Detection & Content
 - [GenParrot AI Song Checker](https://genparrot.com/tools/ai-song-checker/) â€” Check if a song was made by AI.
 - [GenParrot Humanizer Pro](https://genparrot.com/tools/humanizer-pro/) â€” Pro-grade AI humanizer, free.
