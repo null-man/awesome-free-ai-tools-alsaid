@@ -26,6 +26,9 @@
 ## Image & Design
 - [TeslaWraps](https://teslawraps.design) — Free browser Tesla wrap designer. Core editing + PNG export free, no account. Optional AI credits.
 - [PromptImage](https://promptimage.cloud) — Free AI image & video studio with a prompt library. Signup credits, no card.
+- [Alors On Danse Video Maker](https://alorsondansevideo.com) — Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok).
+- [Bad Times AI](https://badtimesai.dev) — Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99).
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) — Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99).
 
 ## AI Detection & Content
 - [GenParrot AI Song Checker](https://genparrot.com/tools/ai-song-checker/) â€” Check if a song was made by AI.
